@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIcons</key>
+	<dict/>
+	<key>CFBundleIcons~ipad</key>
+	<dict/>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>LastAccessedDate</key>
+	<date>2023-08-24T12:04:54Z</date>
+	<key>WorkspacePath</key>
+	<string>../../20230822-TulasiVuppugalla-NYCSchools.xcodeproj</string>
+</dict>
+</plist>
